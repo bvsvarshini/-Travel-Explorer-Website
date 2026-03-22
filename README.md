@@ -60,5 +60,5 @@ Add backend for user data and bookings
 
 ## 📸 Screenshots
 
-![Home Page](home.png)
-![Weather Feature](weather.png)
+![Home Page](https://raw.githubusercontent.com/bvsvarshini/-Travel-Explorer-Website/main/home.png)
+![Weather Feature](https://raw.githubusercontent.com/bvsvarshini/-Travel-Explorer-Website/main/weather.png)
