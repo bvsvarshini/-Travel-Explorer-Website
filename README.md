@@ -60,5 +60,5 @@ Add backend for user data and bookings
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
-![Weather Feature](screenshots/weather.png)
+![Home Page](home.png)
+![Weather Feature](weather.png)
