@@ -25,13 +25,13 @@ The project demonstrates front-end development skills along with API integration
 
 ---
 
-## 📂 Project Structure
+```## 📂 Project Structure
 Travel-Explorer-Website/
 │── index.html
 │── style.css
 │── script.js
 │── images/
-
+```
 ---
 
 ## ⚙️ How It Works
