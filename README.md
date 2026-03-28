@@ -58,7 +58,4 @@ Add Google Maps integration
 Improve weather visualization
 Add backend for user data and bookings
 
-## 📸 Screenshots
 
-![Home Page](https://raw.githubusercontent.com/bvsvarshini/-Travel-Explorer-Website/main/home.png)
-![Weather Feature](https://raw.githubusercontent.com/bvsvarshini/-Travel-Explorer-Website/main/weather.png)
